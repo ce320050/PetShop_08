@@ -1,0 +1,15 @@
+metode pembayaran tidak ada
+current system (sistem lama dan baru)
+registrasi beda untuk service dan pembelian barang
+detail biodata hewan yang akan dilayani
+
+penjelasan 
+di scope menjelaskan batasan (batasan hewan apa saja) 
+
+pilih antara penjualan atau layanan
+
+tujuan dokumen(menjelaskan apa web itu)
+
+hasil diagnosanya 
+
+
